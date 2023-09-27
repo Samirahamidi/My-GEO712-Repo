@@ -7,3 +7,5 @@ In this session, we will be learning about Git and Github, how to create a token
 In this regard, we use this command:  gitcreds::gitcreds_set()
 ## This is the second part of the session
 Make a clown from the repository 
+## Conflict resolutions 
+Here we are trying to check push
